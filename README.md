@@ -3,7 +3,6 @@ Practice Programs
 
 Programs Done:
 
-
 1. Program For Counting Char and Printing in format e.g. input : aabbcc  output : a2b2c2
 2. Program For Finding All Permutations for the string e.g. input : abc output : ['acb', 'abc', 'cab', 'cba', 'bac', 'bca']
 3. Program for Factorial of a given Number input : 5 Output : 120
@@ -14,3 +13,21 @@ Programs Done:
 8. Program for Reverse Number e.g. Input : 321 Output : 123
 9. Program for Palindrome String e.g. Input : 'aba' Output : True
 10. Reverse String And Sum of Digits
+
+
+Searching and Sorting :
+Implementation of sorting and searching algorithms
+A. Sorting
+  1. Bubble Sort
+  2. Insertion Sort
+  3. Selection Sort
+  4. Quick Sort
+  5. Merge Sort
+
+B. Searching 
+  1. Binary Search
+  2. Linear Search
+  
+PythonTicTacToe Game:
+
+Simple Program to play Tic Tac Toe game between two players
